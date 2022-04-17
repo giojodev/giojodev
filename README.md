@@ -10,7 +10,7 @@ I've been working with code since 2014, acquiring the best practices and keep pu
 * ✉️  You can contact me at [giojodeveloper@gmail.com](mailto:giojodeveloper@gmail.com)
 * 🧠  I'm learning NetCore, React, Angular, NextJS, MongoDB
 * 🤝  I'm open to collaborating on Projects that challenge me to look for a solution outside the box
-* ⚡  I can bring myself to any project if you get my attention
+* ⚡  I'm a huge fan of comic and manga so a project based on that would be interesting to work with
 
 ### Skills
 
