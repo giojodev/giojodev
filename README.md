@@ -6,11 +6,11 @@ Developer FullStack
 
 I've been working with code since 2014, acquiring the best practices and keep pushing myself to write quality code and bring solutions to the asignments and projects that I work for
 
-* 🌍  I'm based in Managua, Nicaragua
-* ✉️  You can contact me at [giojodeveloper@gmail.com](mailto:giojodeveloper@gmail.com)
-* 🧠  I'm learning NetCore, React, Angular, NextJS, MongoDB
-* 🤝  I'm open to collaborating on Projects that challenge me to look for a solution outside the box
-* ⚡  I can bring myself to any project if you get my attention
+* 🌍  I'm based in Managua, Nicaragua
+* ✉️  You can contact me at [giojodeveloper@gmail.com](mailto:giojodeveloper@gmail.com)
+* 🧠  I'm learning NetCore, React, Angular, NextJS, MongoDB
+* 🤝  I'm open to collaborating on Projects that challenge me to look for a solution outside the box
+* ⚡  I can bring myself to any project if you get my attention
 
 ### Skills
 
@@ -21,7 +21,6 @@ I've been working with code since 2014, acquiring the best practices and keep pu
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
@@ -29,9 +28,11 @@ I've been working with code since 2014, acquiring the best practices and keep pu
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/giojodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/giojodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
